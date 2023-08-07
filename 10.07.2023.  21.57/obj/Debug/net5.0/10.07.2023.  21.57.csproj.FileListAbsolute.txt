@@ -1,0 +1,16 @@
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.csproj.AssemblyReference.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.AssemblyInfoInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.AssemblyInfo.cs
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.csproj.CoreCompileInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\10.07.2023.  21.57.exe
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\10.07.2023.  21.57.deps.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\10.07.2023.  21.57.runtimeconfig.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\10.07.2023.  21.57.runtimeconfig.dev.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\10.07.2023.  21.57.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\ref\10.07.2023.  21.57.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\bin\Debug\net5.0\10.07.2023.  21.57.pdb
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\ref\10.07.2023.  21.57.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.pdb
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\10.07.2023.  21.57\obj\Debug\net5.0\10.07.2023.  21.57.genruntimeconfig.cache

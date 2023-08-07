@@ -1,0 +1,16 @@
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\weekend practice.exe
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\weekend practice.deps.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\weekend practice.runtimeconfig.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\weekend practice.runtimeconfig.dev.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\weekend practice.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\ref\weekend practice.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\bin\Debug\net5.0\weekend practice.pdb
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.csproj.AssemblyReference.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.AssemblyInfoInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.AssemblyInfo.cs
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.csproj.CoreCompileInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\ref\weekend practice.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.pdb
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\ARRAY\weekend practice\obj\Debug\net5.0\weekend practice.genruntimeconfig.cache
